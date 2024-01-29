@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad3_aplikacja_Stanulewicz_57379", "zad3_aplikacja_Stanulewicz_57379\zad3_aplikacja_Stanulewicz_57379.csproj", "{F5AF1790-2898-42AB-A38B-87545B70420A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5AF1790-2898-42AB-A38B-87545B70420A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5AF1790-2898-42AB-A38B-87545B70420A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5AF1790-2898-42AB-A38B-87545B70420A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5AF1790-2898-42AB-A38B-87545B70420A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2F08A10-E444-474F-81B6-9D029A04AD9F}
+	EndGlobalSection
+EndGlobal
